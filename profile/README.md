@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Design Hub](https://img.shields.io/badge/ACCESS_THE_DESIGN_HUB-Gravit_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/design-gravit)
+[![Access the Design Hub](https://img.shields.io/badge/ACCESS_THE_DESIGN_HUB-Gravit_Ready-blue?style=for-the-badge)](https://archerkpz436207.github.io/.github/design-gravit)
 </div>
 
 ## What is this Gravit Designer Integration?
